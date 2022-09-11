@@ -1,5 +1,5 @@
 # Biomembrane-Reactor
-Biomembrane Reactor is a newly formed subteam for Fall 2022 after splitting from the UASB subteam. It seeks to research and test the use of a biofilm membrane reactor in treating wastewater effluent from the UASB reactor.
+Biomembrane Reactor is a newly formed subteam for Fall 2022 after splitting from the UASB subteam. It seeks to research and test the use of a biofilm membrane reactor in treating effluent wastewater from the UASB reactor.
 
 ## Research Advisor:
 Katrina Chen (kc778)
