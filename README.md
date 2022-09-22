@@ -12,6 +12,8 @@ Laila Salih (lms388)
 
 Camden Wehrle (cw566)
 
+Arron Chang (ac2787) 
+
 
 ## Semester Goals:
 This semester, the team is looking to upscale the biomembrane reactor that is already functioning and continue work on improving the reactor design.
