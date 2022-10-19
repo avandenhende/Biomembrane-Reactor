@@ -14,6 +14,7 @@ Camden Wehrle (cw566)
 
 Arron Chang (ac2787) 
 
+Alex Van Den Hende (ajv85)
 
 ## Semester Goals:
 This semester, the team is looking to upscale the biomembrane reactor that is already functioning and continue work on improving the reactor design.
