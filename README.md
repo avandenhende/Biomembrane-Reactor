@@ -22,3 +22,4 @@ This semester, the team is looking to upscale the biomembrane reactor that is al
 ## Links to Reports and Presentations
 
 ### Fall 2022
+[Symposium Presentation Recording](https://youtu.be/7c1o9a0hJkE)
