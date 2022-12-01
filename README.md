@@ -23,3 +23,11 @@ This semester, the team is looking to upscale the biomembrane reactor that is al
 
 ### Fall 2022
 [Symposium Presentation Recording](https://youtu.be/7c1o9a0hJkE)
+
+[Symposium Slides](https://docs.google.com/presentation/d/1f-qGQySbv0v_E50Fxooem6VHHFGzGGHb3G5Dl7gOGiI/edit?usp=share_link)
+
+[Midterm Report](https://docs.google.com/document/d/1rbyUSzQ-FJsBywJetZwXizSU_wnDaoufi7m4OiouurI/edit?usp=share_link)
+
+[Final Presentation Slides](https://docs.google.com/presentation/d/1kCiOASGAurnFFezza5hUVZbSQ-Pkhiw8Tk6psQT6GXQ/edit?usp=share_link)
+
+[Final Report](https://docs.google.com/document/d/1us1Nvv45HHy7OqkkU5a1pRL3NdID3UnE1I4LJG6EuJA/edit?usp=share_link)
